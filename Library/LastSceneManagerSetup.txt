@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/HeavenLevel.unity
+- path: Assets/_Scenes/EarthLevel.unity
   isLoaded: 1
   isActive: 1
