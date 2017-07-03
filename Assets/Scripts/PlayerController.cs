@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class PlayerController : MonoBehaviour {
 
     public float torqueSpeed;
+ 
     public Text countText;
     public Text winText;
 

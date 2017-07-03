@@ -19,14 +19,14 @@ Platform assembly: C:\Users\Natan\Documents\SAQQanTM\UniClasses\2017\GAM111\17T1
 Loading C:\Users\Natan\Documents\SAQQanTM\UniClasses\2017\GAM111\17T1RollingBall\Builds\RollingBallV1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\Natan\Documents\SAQQanTM\UniClasses\2017\GAM111\17T1RollingBall\Builds\RollingBallV1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\Natan\Documents\SAQQanTM\UniClasses\2017\GAM111\17T1RollingBall\Builds\RollingBallV1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.313 seconds
+- Completed reload, in  0.223 seconds
 Platform assembly: C:\Users\Natan\Documents\SAQQanTM\UniClasses\2017\GAM111\17T1RollingBall\Builds\RollingBallV1_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Natan\Documents\SAQQanTM\UniClasses\2017\GAM111\17T1RollingBall\Builds\RollingBallV1_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 392.587158 ms
+UnloadTime: 3.198216 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 27f4 -> priority: 1 
-  Thread -> id: 2548 -> priority: 1 
+  Thread -> id: 1de0 -> priority: 1 
+  Thread -> id: 16c4 -> priority: 1 

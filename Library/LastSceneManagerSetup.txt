@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/EarthLevel.unity
+- path: Assets/UI/Scenes/Layout Groups.unity
   isLoaded: 1
   isActive: 1
